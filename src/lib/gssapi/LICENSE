@@ -22,7 +22,6 @@ cmd/krb5/iprop/iprop.x
 cmd/krb5/iprop/iprop_hdr.h
 cmd/krb5/kadmin/server/ipropd_svc.c
 cmd/krb5/kproplog/kproplog.c
-cmd/krb5/slave/kpropd_rpc.c
 lib/gss_mechs/mech_krb5/et/kdb5_err.c
 lib/gss_mechs/mech_spnego/mech/gssapiP_spnego.h
 lib/gss_mechs/mech_spnego/mech/spnego_mech.c
